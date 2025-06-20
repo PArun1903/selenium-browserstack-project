@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-19T23:00:23 IST" name="BrowserStack Test Suite" finished-at="2025-06-19T23:00:40 IST" duration-ms="17198">
+    <groups>
+    </groups>
+    <test started-at="2025-06-19T23:00:23 IST" name="Sample Tests" finished-at="2025-06-19T23:00:40 IST" duration-ms="17198">
+      <class name="Tests.WordCounter">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:Tests.WordCounter@59474f18]" started-at="2025-06-19T23:00:23 IST" name="setUp" finished-at="2025-06-19T23:00:30 IST" duration-ms="6879" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Tests.WordCounter.WordCounting() throws java.io.IOException,java.net.URISyntaxException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="WordCounting()[pri:0, instance:Tests.WordCounter@59474f18]" started-at="2025-06-19T23:00:30 IST" name="WordCounting" finished-at="2025-06-19T23:00:40 IST" duration-ms="10221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WordCounting -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Tests.WordCounter@59474f18]" started-at="2025-06-19T23:00:40 IST" name="tearDown" finished-at="2025-06-19T23:00:40 IST" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=WordCounting status=SUCCESS method=WordCounter.WordCounting()[pri:0, instance:Tests.WordCounter@59474f18] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.WordCounter -->
+    </test> <!-- Sample Tests -->
+  </suite> <!-- BrowserStack Test Suite -->
+</testng-results>

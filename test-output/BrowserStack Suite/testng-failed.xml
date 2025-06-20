@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [BrowserStack Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="Mac Safari Test(failed)">
+    <parameter name="config" value="{os:OS X, osVersion:Monterey, browserName:Safari, browserVersion:15.6}"/>
+    <classes>
+      <class name="Tests.WordCounter">
+        <methods>
+          <include name="WordCounting"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Tests.WordCounter -->
+    </classes>
+  </test> <!-- Mac Safari Test(failed) -->
+  <test thread-count="5" parallel="tests" name="Windows Chrome Test(failed)">
+    <parameter name="config" value="{os:Windows, osVersion:10, browserName:Chrome, browserVersion:120.0}"/>
+    <classes>
+      <class name="Tests.WordCounter">
+        <methods>
+          <include name="WordCounting"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Tests.WordCounter -->
+    </classes>
+  </test> <!-- Windows Chrome Test(failed) -->
+  <test thread-count="5" parallel="tests" name="iPhone 15 Pro Test(failed)">
+    <parameter name="deviceConfig" value="{deviceName:iPhone 15 Pro, osVersion:17, browserName:chromium, deviceOrientation:portrait}"/>
+    <classes>
+      <class name="Tests.WordCounter">
+        <methods>
+          <include name="WordCounting"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Tests.WordCounter -->
+    </classes>
+  </test> <!-- iPhone 15 Pro Test(failed) -->
+  <test thread-count="5" parallel="tests" name="OnePlus 12R Test(failed)">
+    <parameter name="deviceConfig" value="{deviceName:OnePlus 12R, osVersion:14.0, browserName:chrome, deviceOrientation:portrait}"/>
+    <classes>
+      <class name="Tests.WordCounter">
+        <methods>
+          <include name="WordCounting"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Tests.WordCounter -->
+    </classes>
+  </test> <!-- OnePlus 12R Test(failed) -->
+  <test thread-count="5" parallel="tests" name="Samsung Galaxy S23 Ultra Test(failed)">
+    <parameter name="deviceConfig" value="{deviceName:Samsung Galaxy S23 Ultra, osVersion:13.0, browserName:chrome, deviceOrientation:portrait}"/>
+    <classes>
+      <class name="Tests.WordCounter">
+        <methods>
+          <include name="WordCounting"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Tests.WordCounter -->
+    </classes>
+  </test> <!-- Samsung Galaxy S23 Ultra Test(failed) -->
+</suite> <!-- Failed suite [BrowserStack Suite] -->

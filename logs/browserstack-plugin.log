@@ -1,0 +1,188 @@
+18:45:39.255 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+18:45:39.259 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.5, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=et9QTDTiCTzPCxuppPZJ, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=arunpujari_Igznmy, BROWSERSTACK_FRAMEWORK=java, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=BrowserStack Sample, BROWSERSTACK_SOURCE=java:eclipse:v1.0.10]
+18:45:39.296 [Worker-21: Launching mavenrun-8b7d9a98-fa5d-4555-9192-bd89bcecdf33] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+18:46:02.678 [Worker-21: Launching WordCounter] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+18:46:02.688 [Worker-21: Launching WordCounter] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+18:46:02.691 [Worker-21: Launching WordCounter] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:46:02.692 [Worker-21: Launching WordCounter] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+18:52:30.511 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:52:30.511 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:52:30.513 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+18:52:30.514 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:52:30.514 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:52:30.516 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:13:30.266 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:13:30.268 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:13:30.269 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:13:30.270 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:13:30.270 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:13:30.272 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:13:35.135 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:13:35.135 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:13:35.136 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:13:35.137 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:13:35.137 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:13:35.139 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:17:24.984 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:17:24.985 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:17:24.987 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:17:24.988 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:17:24.988 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:17:24.989 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:19:12.210 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:19:12.211 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:19:12.213 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:19:12.214 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:19:12.214 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:19:12.215 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:21:16.642 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:21:16.642 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:21:16.644 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:21:16.645 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:21:16.645 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:21:16.647 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:24:01.646 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:24:01.647 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:24:01.649 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:24:01.649 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:24:01.649 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:24:01.651 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:25:26.811 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:25:26.812 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:25:26.813 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:25:26.814 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:25:26.814 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:25:26.816 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:27:16.193 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:27:16.195 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:27:16.197 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:27:16.198 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:27:16.198 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:27:16.199 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:28:08.441 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:28:08.441 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:28:08.443 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:28:08.444 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:28:08.444 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:28:08.446 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:29:52.929 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:29:52.931 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:29:52.933 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:29:52.933 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:29:52.934 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:29:52.935 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:32:26.518 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:32:26.520 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:32:26.521 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:32:26.522 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:32:26.523 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:32:26.524 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:37:15.821 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:37:15.823 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:37:15.825 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:37:15.826 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:37:15.826 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:37:15.827 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:38:44.927 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:38:44.928 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:38:44.930 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:38:44.931 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:38:44.931 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:38:44.933 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:40:38.646 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:40:38.647 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:40:38.649 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:40:38.649 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:40:38.649 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:40:38.651 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:41:54.658 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:41:54.660 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:41:54.662 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:41:54.663 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:41:54.663 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:41:54.664 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:43:18.136 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:43:18.141 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:43:18.143 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:43:18.144 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:43:18.144 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:43:18.146 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:43:19.328 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:43:19.328 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:43:19.330 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:43:19.331 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:43:19.331 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:43:19.333 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+19:53:56.033 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+19:53:56.035 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:53:56.037 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+19:53:56.038 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+19:53:56.038 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+19:53:56.039 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+20:37:21.121 [Worker-61: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+20:37:21.126 [Worker-61: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+20:39:14.932 [Worker-61: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+20:39:14.933 [Worker-61: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+20:41:33.065 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+20:41:33.066 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+20:41:33.068 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+20:41:33.069 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+20:41:33.069 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+20:41:33.070 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+20:42:21.798 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+20:42:21.799 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+20:42:21.800 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+20:42:21.801 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+20:42:21.801 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+20:42:21.802 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+20:44:45.186 [Worker-71: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+20:44:45.187 [Worker-71: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+20:46:41.139 [Worker-71: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+20:46:41.140 [Worker-71: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+22:16:44.697 [Worker-83: Launching WordCounter] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:16:44.699 [Worker-83: Launching WordCounter] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+22:18:30.709 [Worker-81: Launching WordCounter] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:18:30.710 [Worker-81: Launching WordCounter] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+22:18:39.790 [Worker-85: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:18:39.792 [Worker-85: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+22:19:31.280 [Worker-87: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:19:31.281 [Worker-87: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+22:21:53.409 [Worker-81: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:21:53.413 [Worker-81: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+22:26:12.156 [Worker-95: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:26:12.157 [Worker-95: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+22:29:40.970 [Worker-94: Launching Executing verify in _Users_Ricchy_eclipse-workspace_WAT_project] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:35:54.109 [Worker-99: Launching Executing test in _Users_Ricchy_eclipse-workspace_WAT_project] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:38:10.338 [Worker-94: Launching Executing test in _Users_Ricchy_eclipse-workspace_WAT_project] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:42:05.342 [Worker-108: Launching Executing test in _Users_Ricchy_eclipse-workspace_WAT_project] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:43:27.474 [Worker-107: Launching Executing test in _Users_Ricchy_eclipse-workspace_WAT_project] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:44:55.575 [Worker-108: Launching Executing test in _Users_Ricchy_eclipse-workspace_WAT_project] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:47:54.197 [Worker-111: Launching Executing test in _Users_Ricchy_eclipse-workspace_WAT_project] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:50:01.445 [Worker-114: Launching Executing test in _Users_Ricchy_eclipse-workspace_WAT_project] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:55:39.995 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+22:55:39.997 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+22:55:39.999 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+22:55:40.000 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+22:55:40.000 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+22:55:40.001 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+22:56:51.168 [Worker-122: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:56:51.169 [Worker-122: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+22:57:44.703 [Worker-123: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:57:44.704 [Worker-123: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:00:21.423 [Worker-122: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:00:21.434 [Worker-122: Launching WAT_project_testng.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:02:44.221 [Worker-128: Launching Executing test in _Users_Ricchy_eclipse-workspace_WAT_project] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:07:05.027 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+23:07:05.030 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+23:07:05.032 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+23:07:05.032 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+23:07:05.032 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+23:07:05.034 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project
+23:09:20.742 [Worker-131: Launching Executing test in _Users_Ricchy_eclipse-workspace_WAT_project] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:39:14.340 [Worker-138: Launching Executing test in _Users_Ricchy_eclipse-workspace_WAT_project] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+05:45:13.228 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+05:45:13.260 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+05:45:13.265 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/WAT_project
+05:45:13.265 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+05:45:13.265 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+05:45:13.267 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/WAT_project

@@ -1,11 +1,17 @@
 package Tests;
 
 import java.io.IOException;
-import java.util.*;
+import java.net.URISyntaxException;
+import java.util.HashMap;
+import java.util.Map;
 
-public class WordCounter {
+import org.testng.annotations.Test;
 
-	public static void main(String[] args) throws IOException {
+public class WordCounter extends BaseTest {
+    @Test
+	public void WordCounting() throws IOException, URISyntaxException {
+    	
+    	driver.get("https://www.google.com");
 		
 		boolean found = false;
 
@@ -34,6 +40,7 @@ public class WordCounter {
 		if (!found) {
 		    System.out.println("No words repeated more than twice");
 		}
+		driver.quit();
 	}
 
 }
